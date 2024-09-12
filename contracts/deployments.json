@@ -1,0 +1,36 @@
+{
+  "bnb": {
+    "TokenA": {
+      "address": "0x4F89F2698a57A775a866C7bC71d2DCBea89c20a1",
+      "transactionHash": "0xfc26a691c8aca957fcdf6575fd0f72603e85f18ff4ffdc1484e6c2bc90ea8f50",
+      "blockNumber": 43780458
+    },
+    "NFTB": {
+      "address": "0x777aC0b9Ddf8c4FD03C747eC42b850Ddeea9A717",
+      "transactionHash": "0x61aeddf41c9a441f471473762f418e6b5606cdee9d661c93e18f6671dd17d6f1",
+      "blockNumber": 43780460
+    },
+    "Staking": {
+      "address": "0xEA4377ca07640fF037Fc9450e3095108833D92be",
+      "transactionHash": "0xc8b830f393ce69951072e932d592a8dfba4632d7ab93d5d6c603c3b172dff14f",
+      "blockNumber": 43780462
+    }
+  },
+  "lineaSepolia": {
+    "TokenA": {
+      "address": "0x339bBC4F665625B92304117F2Cd52Ba9d0F41a64",
+      "transactionHash": "0x76c2a0a5d6f364c5b120f5a3c1d2c88c5276ac95b54eb45508e003a21f7ebd1a",
+      "blockNumber": 3800664
+    },
+    "NFTB": {
+      "address": "0x1C3C2e12F6bA6044B581a93Af64214E12D67e66c",
+      "transactionHash": "0xc51da6ea619e702efe425577f17e8178b9062df898250fec24a015f25778ea4d",
+      "blockNumber": 3800665
+    },
+    "Staking": {
+      "address": "0xe301d88F1B03C22D8eE0b2608E70b7011C8Db3a8",
+      "transactionHash": "0x8af9cda6c55b180f6f5bf9d521395c6e933d10216d587328a7c632b1ff993aa6",
+      "blockNumber": 3800666
+    }
+  }
+}
